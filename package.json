@@ -1,0 +1,11 @@
+{
+  "name": "bbb-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
