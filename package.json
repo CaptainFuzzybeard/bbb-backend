@@ -1,0 +1,16 @@
+{
+  "name": "bbb-backend",
+  "version": "1.0.0",
+  "description": "Brand Baaja Baraat - API backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node api/analyse.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
